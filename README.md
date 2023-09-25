@@ -53,6 +53,6 @@ By visiting the provided Netlify link, users can directly access and explore the
 
 - Donation: Allows you to select a charity to donate to selected request and checkout.
 
--Allows registered users to create and manage charity requests as well.
+- Allows registered users to create and manage charity requests as well.
 
--implemented jwt authentication and password hashing through bcrypt
+- implemented jwt authentication and password hashing through bcrypt

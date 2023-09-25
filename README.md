@@ -4,10 +4,18 @@ BackEnd Link:
 https://ivory-ox-kilt.cyclic.cloud
 
 # Project Title
-CharityHero is a website where you can create charity requests as well as view and donate to charities of your choice. This Project was done by a team of five members over the course of five days. We used Typescript, React and Chakra UI for frontend, while the back-end was built using Node.js with the Express framework, and MongoDB was employed as the database.
+CharityHero is a website where you can create charity requests as well as view and donate to charities of your choice. 
+
+## Meet the team!
+- https://github.com/neo1710
+- https://github.com/chetan791
+- https://github.com/shaharyaaransari
+- https://github.com/Upendrapal0607
+- https://github.com/Abhishree-codes
 
 # Project Description
 
+This Project was done by a team of five members over the course of five days. We used Typescript, React and Chakra UI for frontend, while the back-end was built using Node.js with the Express framework, and MongoDB was employed as the database.
 
 ## 🔗 Links
 
